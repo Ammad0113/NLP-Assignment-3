@@ -1,0 +1,57 @@
+[
+  {
+    "review": "The item was as described in the product overview.",
+    "pred_sent": "Positive",
+    "pred_help": "Low",
+    "retrieved": [
+      "I wish the temperature was in the bigger font.",
+      "Direct fit, OEM product just as shown in the pictures.",
+      "Good coverup product at a less expensive price than the prod"
+    ],
+    "explanation": "this review is positive because the reviewer <UNK> good and good and color and into"
+  },
+  {
+    "review": "I came here to find how to get a cover, I hope this one will work, if not I guess i have to install the whole thing, it kept crack",
+    "pred_sent": "Negative",
+    "pred_help": "High",
+    "retrieved": [
+      "I know this game sometimes has a bad rap due to being often ",
+      "The Legend Of Zelda Ocarina Of Time came out in 1998 and ble",
+      "I put the amount that was directed on the bottle but it tend"
+    ],
+    "explanation": ""
+  },
+  {
+    "review": "don't really need cards larger than 8MB and the 8MB by sony is most compatible with all games but these work too",
+    "pred_sent": "Positive",
+    "pred_help": "Medium",
+    "retrieved": [
+      "This lasted over a week without chipping, its just lighter c",
+      "i bought this for a gift first off\nthe used gamboys don't co",
+      "Took one star off cause they came in broken and it took fore"
+    ],
+    "explanation": "and arrived and worked and much and product and love and apply and polish and them and didn't"
+  },
+  {
+    "review": "Did exactly what it was supposed to do with a better price tag than hardware store.",
+    "pred_sent": "Positive",
+    "pred_help": "Low",
+    "retrieved": [
+      "Exactly what I need to get my Aprilaire 760 up and running a",
+      "Does exactly what it promises to do: give you silky soft ski",
+      "Exactly what we needed when we were unable to locate it in l"
+    ],
+    "explanation": "and the reviewer <UNK> and product and type and used and disappointed and perfect"
+  },
+  {
+    "review": "they've changed the design of these hot fat trapping bags but they still are the best at keeping grease out of the sink and into t",
+    "pred_sent": "Positive",
+    "pred_help": "Medium",
+    "retrieved": [
+      "This is a good replacement product for my Holmes cool mist h",
+      "The 10  types of games seem very simple, but believe me they",
+      "Very convenient to be able to order a filter for my odd size"
+    ],
+    "explanation": "and game and like and came and doesn't and everything and makeup and when"
+  }
+]
