@@ -1,0 +1,11 @@
+{
+  "rag_decoder": {
+    "test_loss": 1.6252169039162776,
+    "test_ppl": 5.079520685629356
+  },
+  "baseline_decoder": {
+    "test_loss": 1.9001646485088493,
+    "test_ppl": 6.686995355458884
+  },
+  "ppl_improvement_pct": 24.038818398718888
+}
